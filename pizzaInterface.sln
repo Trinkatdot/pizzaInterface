@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pizzaInterface", "pizzaInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzasistema", "Pizzasistema\Pizzasistema.csproj", "{2F3E2A89-C2F5-425C-9B20-2CE7D23AC1C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzasistemateste", "Pizzasistemateste\Pizzasistemateste.csproj", "{D06FDF13-354D-4B54-8D2F-53A18D5A242C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{2F3E2A89-C2F5-425C-9B20-2CE7D23AC1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F3E2A89-C2F5-425C-9B20-2CE7D23AC1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F3E2A89-C2F5-425C-9B20-2CE7D23AC1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06FDF13-354D-4B54-8D2F-53A18D5A242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06FDF13-354D-4B54-8D2F-53A18D5A242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06FDF13-354D-4B54-8D2F-53A18D5A242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06FDF13-354D-4B54-8D2F-53A18D5A242C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
